@@ -1,9 +1,9 @@
-import { Typography } from "@mui/material";
+import MainContent from "./MainContent";
 
 export default function Home() {
   return (
     <main>
-      <Typography>Hello world!</Typography>
+      <MainContent />
     </main>
   );
 }
